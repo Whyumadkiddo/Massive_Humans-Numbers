@@ -1,0 +1,3 @@
+﻿  Lesson2.cpp
+C:\Users\vladm\source\repos\Lesson2\Lesson2\Lesson2.cpp(123,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lesson2.vcxproj -> C:\Users\vladm\source\repos\Lesson2\x64\Debug\Lesson2.exe
